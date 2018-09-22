@@ -18,3 +18,9 @@ build/
 .node_modules/
 built/*
 package-lock.json
+
+# IntelliJ
+.idea/analog-clock-face.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
