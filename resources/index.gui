@@ -1,29 +1,32 @@
-<svg viewport-fill="#e0dbbe"><!-- 334764 e0dbbe -->
+<svg viewport-fill="#e0dbbe">
+    <!-- background line -->
+    <g id="back" transform="translate(50%,50%)rotate(-35)">
+        <rect x="-70%" y="0%" width="140%" height="70%" fill="#334764" />
+    </g>
 
-  <g id="minutes" transform="translate(50%,50%)">
-    <use href="#minutes_bar" />
-  </g>
-  <g id="hours" transform="translate(50%,50%)">
-    <use href="#hours_bar" />
-  </g>
+    <!-- numbers -->
+    <use href="#number_01" x="75%-20" y="10%-20" />
+    <use href="#number_02" x="90%-20" y="25%-20" />
+    <use href="#number_03" x="90%-20" y="50%-20" />
+    <use href="#number_04" x="90%-20" y="75%-20" />
+    <use href="#number_05" x="75%-20" y="90%-20" />
+    <use href="#number_06" x="50%-20" y="90%-20" />
+    <use href="#number_07" x="25%-20" y="90%-20" />
+    <use href="#number_08" x="10%-20" y="75%-20" />
+    <use href="#number_09" x="10%-20" y="50%-20" />
+    <use href="#number_10" x="10%-20" y="25%-20" />
+    <use href="#number_11" x="25%-20" y="10%-20" />
+    <use href="#number_12" x="50%-20" y="10%-20" />
 
-  <!-- center dots -->
-  <circle cx="50%" cy="50%" r="6" fill="#dddddd" />
-  <circle cx="50%" cy="50%" r="5" fill="white" />
-  <circle cx="50%" cy="50%" r="2" fill="#FF7300" />
+    <g id="minutes" transform="translate(50%,50%)">
+        <use href="#minutes_bar" />
+    </g>
+    <g id="hours" transform="translate(50%,50%)">
+        <use href="#hours_bar" />
+    </g>
 
-  <!-- numbers -->
-  <use href="#number_01" x="75%-20" y="10%-20" />
-  <use href="#number_02" x="90%-20" y="25%-20" />
-  <use href="#number_03" x="90%-20" y="50%-20" />
-  <use href="#number_04" x="90%-20" y="75%-20" />
-  <use href="#number_05" x="75%-20" y="90%-20" />
-  <use href="#number_06" x="50%-20" y="90%-20" />
-  <use href="#number_07" x="25%-20" y="90%-20" />
-  <use href="#number_08" x="10%-20" y="75%-20" />
-  <use href="#number_09" x="10%-20" y="50%-20" />
-  <use href="#number_10" x="10%-20" y="25%-20" />
-  <use href="#number_11" x="25%-20" y="10%-20" />
-  <use href="#number_12" x="50%-20" y="10%-20" />
-
+    <!-- center dots -->
+    <circle cx="50%" cy="50%" r="6" fill="#dddddd" />
+    <circle cx="50%" cy="50%" r="5" fill="white" />
+    <circle cx="50%" cy="50%" r="2" fill="#FF7300" />
 </svg>
