@@ -1,7 +1,7 @@
 <svg viewport-fill="#e0dbbe">
     <!-- background line -->
-    <g id="back" transform="translate(50%,50%)rotate(-25)">
-        <rect x="-65%" y="0%" width="125%" height="75%" fill="#334764" />
+    <g id="back" transform="translate(50%,50%)rotate(-35)">
+        <rect x="-70%" y="0%" width="140%" height="70%" fill="#334764" />
     </g>
 
     <!-- numbers -->
