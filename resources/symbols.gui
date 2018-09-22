@@ -16,40 +16,40 @@
 
     <!-- numbers -->
     <symbol id="number_01">
-        <image width="40" height="40" href="number_01.png"/>
+        <image width="40" height="40" href="numbers/number_01.png"/>
     </symbol>
     <symbol id="number_02">
-        <image width="40" height="40" href="number_02.png"/>
+        <image width="40" height="40" href="numbers/number_02.png"/>
     </symbol>
     <symbol id="number_03">
-        <image width="40" height="40" href="number_03.png"/>
+        <image width="40" height="40" href="numbers/number_03.png"/>
     </symbol>
     <symbol id="number_04">
-        <image width="40" height="40" href="number_04.png"/>
+        <image width="40" height="40" href="numbers/number_04.png"/>
     </symbol>
     <symbol id="number_05">
-        <image width="40" height="40" href="number_05.png"/>
+        <image width="40" height="40" href="numbers/number_05.png"/>
     </symbol>
     <symbol id="number_06">
-        <image width="40" height="40" href="number_06.png"/>
+        <image width="40" height="40" href="numbers/number_06.png"/>
     </symbol>
     <symbol id="number_07">
-        <image width="40" height="40" href="number_07.png"/>
+        <image width="40" height="40" href="numbers/number_07.png"/>
     </symbol>
     <symbol id="number_08">
-        <image width="40" height="40" href="number_08.png"/>
+        <image width="40" height="40" href="numbers/number_08.png"/>
     </symbol>
     <symbol id="number_09">
-        <image width="40" height="40" href="number_09.png"/>
+        <image width="40" height="40" href="numbers/number_09.png"/>
     </symbol>
     <symbol id="number_10">
-        <image width="40" height="40" href="number_10.png"/>
+        <image width="40" height="40" href="numbers/number_10.png"/>
     </symbol>
     <symbol id="number_11">
-        <image width="40" height="40" href="number_11.png"/>
+        <image width="40" height="40" href="numbers/number_11.png"/>
     </symbol>
     <symbol id="number_12">
-        <image width="40" height="40" href="number_12.png"/>
+        <image width="40" height="40" href="numbers/number_12.png"/>
     </symbol>
   </defs>
 </svg>
