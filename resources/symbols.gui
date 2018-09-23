@@ -4,14 +4,14 @@
     <symbol id="hours_bar">
       <line x1="0" y1="0" x2="0" y2="-5%-2" stroke-width="3" fill="white" />
       <line x1="0" y1="-5%" x2="0" y2="-30%" stroke-width="9" fill="white" />
-      <line x1="0" y1="-5%-2" x2="0" y2="-30%+2" stroke-width="6" fill="#FF7300" />
+      <line x1="0" y1="-5%-2" x2="0" y2="-30%+2" stroke-width="6" fill="#f57d26" />
     </symbol>
 
     <!-- minutes -->
     <symbol id="minutes_bar">
       <line x1="0" y1="0" x2="0" y2="-5%-2" stroke-width="3" fill="white" />
       <line x1="0" y1="-5%" x2="0" y2="-45%" stroke-width="9" fill="white" />
-      <line x1="0" y1="-5%-2" x2="0" y2="-45%+2" stroke-width="6" fill="#FF7300" />
+      <line x1="0" y1="-5%-2" x2="0" y2="-45%+2" stroke-width="6" fill="#f57d26" />
     </symbol>
 
     <!-- numbers -->

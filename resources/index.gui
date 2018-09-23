@@ -28,5 +28,5 @@
     <!-- center dots -->
     <circle cx="50%" cy="50%" r="6" fill="#dddddd" />
     <circle cx="50%" cy="50%" r="5" fill="white" />
-    <circle cx="50%" cy="50%" r="2" fill="#FF7300" />
+    <circle cx="50%" cy="50%" r="2" fill="#f57d26" />
 </svg>
