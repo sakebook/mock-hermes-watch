@@ -13,7 +13,12 @@
 
 .fancy { font-family: "System-Light"; }
 .fab { font-family: "Fabrikat-Black"; }
+#date_font { font-family: "Fabrikat-Black"; }
+
+
 
 line {
   stroke-linecap: round;
 }
+
+.primary_color { fill: #f57d26; opacity: 1; }

@@ -1,22 +1,27 @@
 <svg viewport-fill="#e0dbbe">
     <!-- background line -->
-    <g id="back" transform="translate(50%,50%)rotate(-35)">
+    <g id="back" transform="translate(50%,50%)rotate(-30)">
         <rect x="-70%" y="0%" width="140%" height="70%" fill="#334764" />
     </g>
 
     <!-- numbers -->
-    <use href="#number_01" x="75%-20" y="10%-20" />
+    <use href="#number_01" x="74%-20" y="10%-20" />
     <use href="#number_02" x="90%-20" y="25%-20" />
     <use href="#number_03" x="90%-20" y="50%-20" />
     <use href="#number_04" x="90%-20" y="75%-20" />
-    <use href="#number_05" x="75%-20" y="90%-20" />
+    <use href="#number_05" x="74%-20" y="90%-20" />
     <use href="#number_06" x="50%-20" y="90%-20" />
-    <use href="#number_07" x="25%-20" y="90%-20" />
+    <use href="#number_07" x="26%-20" y="90%-20" />
     <use href="#number_08" x="10%-20" y="75%-20" />
     <use href="#number_09" x="10%-20" y="50%-20" />
     <use href="#number_10" x="10%-20" y="25%-20" />
-    <use href="#number_11" x="25%-20" y="10%-20" />
+    <use href="#number_11" x="26%-20" y="10%-20" />
     <use href="#number_12" x="50%-20" y="10%-20" />
+
+    <svg width="40" height="40" x="50%-20" y="70%">
+        <image href="date_rect.png"/>
+        <text id="date_font" x="50%" y="50%+10" width="40" height="40" fill="#f57d26" font-size="30" text-anchor="middle"/>
+    </svg>
 
     <g id="minutes" transform="translate(50%,50%)">
         <use href="#minutes_bar" />
