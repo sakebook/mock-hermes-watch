@@ -1,6 +1,26 @@
 {
-  "name": "analog-clock-face",
-  "version": "0.1.0",
+  "fitbit": {
+    "appUUID": "50d69af9-f680-4f73-aad4-2f7b0c30dafc",
+    "appType": "clockface",
+    "appDisplayName": "Mock Hermes Watch",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffffff",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mock Hermes Watch"
+      },
+      "ja": {
+        "name": "エルメスウォッチもどき"
+      }
+    }
+  },
+  "name": "mock-hermes-watch",
+  "version": "1.1.0",
   "private": true,
   "license": "UNLICENSED",
   "devDependencies": {
@@ -11,19 +31,6 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.1"
-  },
-  "fitbit": {
-    "appUUID": "50d69af9-f680-4f73-aad4-2f7b0c30dafc",
-    "appType": "clockface",
-    "appDisplayName": "Analog Clock Face",
-    "iconFile": "resources/icon.png",
-    "wipeColor": "#ffffff",
-    "requestedPermissions": [],
-    "buildTargets": [
-      "higgs",
-      "meson"
-    ],
-    "i18n": {}
   },
   "scripts": {
     "build": "fitbit-build",
