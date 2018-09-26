@@ -1,7 +1,7 @@
 import clock from 'clock';
 import document from 'document';
 
-const dateText = document.getElementById('date_font');
+const dateText = document.getElementById('js-date');
 const hoursBar = document.getElementById('hours');
 const minutesBar = document.getElementById('minutes');
 

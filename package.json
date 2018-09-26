@@ -2,7 +2,7 @@
   "fitbit": {
     "appUUID": "50d69af9-f680-4f73-aad4-2f7b0c30dafc",
     "appType": "clockface",
-    "appDisplayName": "Mock Hermes Watch",
+    "appDisplayName": "Mock Ermes Watch",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [],
@@ -12,14 +12,14 @@
     ],
     "i18n": {
       "en": {
-        "name": "Mock Hermes Watch"
+        "name": "Mock Ermes Watch"
       },
       "ja": {
         "name": "エルメスウォッチもどき"
       }
     }
   },
-  "name": "mock-hermes-watch",
+  "name": "mock-ermes-watch",
   "version": "1.1.0",
   "private": true,
   "license": "UNLICENSED",

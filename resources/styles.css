@@ -1,24 +1,33 @@
-.defaultText {
-  font-size: 32;
-  font-family: System-Regular;
-  font-weight: regular;
-  text-length: 32;
+.background {
+    viewport-fill: #e0dbbe;
 }
-
-#background {
-  width: 100%;
-  height: 100%;
-  fill: white;
-}
-
-.fancy { font-family: "System-Light"; }
-.fab { font-family: "Fabrikat-Black"; }
-#date_font { font-family: "Fabrikat-Black"; }
-
-
 
 line {
-  stroke-linecap: round;
+    stroke-linecap: round;
 }
 
-.primary_color { fill: #f57d26; opacity: 1; }
+.color-primary {
+    fill: #f57d26;
+}
+
+.color-inverse {
+    fill: #334764;
+}
+
+.color-white {
+    fill: white;
+}
+
+.color-light-gray {
+    fill: #dddddd;
+}
+
+.font-date {
+    font-family: "Fabrikat-Black";
+    width: 40;
+    height: 40;
+    font-size: 30;
+    text-anchor: middle;
+}
+
+
