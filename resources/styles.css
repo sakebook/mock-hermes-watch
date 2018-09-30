@@ -2,10 +2,6 @@
     viewport-fill: #e0dbbe;
 }
 
-line {
-    stroke-linecap: round;
-}
-
 .color-primary {
     fill: #f57d26;
 }
@@ -30,4 +26,51 @@ line {
     text-anchor: middle;
 }
 
+line {
+    stroke-linecap: round;
+}
 
+line.time-hand {
+    fill: white;
+    x1: 0;
+    y1: 0;
+    x2: 0;
+    y2: -10%-3;
+    stroke-width: 3;
+}
+
+line.minutes-hand-back {
+    fill: white;
+    x1: 0;
+    y1: -8%;
+    x2: 0;
+    y2: -46%;
+    stroke-width: 9;
+}
+
+line.minutes-hand {
+    fill: #f57d26;
+    x1: 0;
+    y1: -8%-1;
+    x2: 0;
+    y2: -46%+1;
+    stroke-width: 6;
+}
+
+line.hours-hand-back {
+    fill: white;
+    x1: 0;
+    y1: -8%;
+    x2: 0;
+    y2: -32%;
+    stroke-width: 9;
+}
+
+line.hours-hand {
+    fill: #f57d26;
+    x1: 0;
+    y1: -8%-1;
+    x2: 0;
+    y2: -32%+1;
+    stroke-width: 6;
+}
