@@ -4,7 +4,7 @@ Fitbit Clock Face like a Apple Watch Hermès
 
 |Ionic|Versa|
 |:---:|:---:|
-|![image](art/screenshot-ionic.png)|![image](art/screenshot-versa.png)|
+|![image](art/screenshot-ionic-01.png)|![image](art/screenshot-versa-01.png)|
 
 [Store Link](https://gam.fitbit.com/gallery/clock/50d69af9-f680-4f73-aad4-2f7b0c30dafc)
 
