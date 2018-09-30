@@ -1,8 +1,8 @@
 <svg class="background">
     <!-- background line -->
-    <g id="back" transform="translate(50%,50%)rotate(-30)">
-        <rect class="color-inverse" x="-65%" y="0%" width="70%" height="90%" />
-        <rect class="color-inverse" x="0%" y="0%" width="70%" height="90%" />
+    <g id="back" transform="translate(50%,50%)">
+        <rect class="color-inverse" x="0%" y="-90%" width="65%" height="91%" />
+        <rect class="color-inverse" x="0%" y="0%" width="65%" height="91%" />
     </g>
 
     <!-- numbers -->
