@@ -1,7 +1,7 @@
 <svg class="background">
     <!-- background line -->
     <g id="back" transform="translate(50%,50%)">
-        <rect class="color-inverse" x="0%" y="-75%" width="76%" height="75%" />
+        <rect class="color-inverse" x="0%" y="-75%" width="76%" height="77%" />
         <rect class="color-inverse" x="0%" y="0%" width="76%" height="75%" />
     </g>
 
